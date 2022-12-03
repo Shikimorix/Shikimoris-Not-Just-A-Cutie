@@ -19,7 +19,9 @@
 | Episode 12 | <a href="https://streamsb.com/d/2o1isgiudmbr.html">Download</a> |
 
 <div align="center">
-<b><a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> Home Page </a></b>
 
+<a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> `Home Page` </a> • <a href="https://github.com/ikx7a"> `Contact Us` </a>
+
+</div>
 
 
