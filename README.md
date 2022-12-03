@@ -11,6 +11,7 @@
  <div align="center"> <b>
 
 [![Watch Now](https://custom-icon-badges.demolab.com/badge/Watch-Now-green.svg?logo=play&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Watch%20Now)
+[![comment](https://custom-icon-badges.demolab.com/badge/Comment-orange.svg?logo=comment-discussion&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/discussions/2)
 [![Contact Us](https://custom-icon-badges.demolab.com/badge/Contact-Us-red.svg?logo=heart&logoColor=white)](https://github.com/ikx7a)
 
 </b>
@@ -30,9 +31,3 @@
 - **Genres:** `Comedy`, `Romance`, `Slice of Life`.
 - **Studios:** ABC, ABC Animation, Doga Kobo, Crunchyroll
 - **Producers:** TV Asahi
-
-<div align="center">
-
-[![comment](https://custom-icon-badges.demolab.com/badge/Comment-orange.svg?logo=comment-discussion&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/discussions/2)
-
-</div>
