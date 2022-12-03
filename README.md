@@ -8,7 +8,7 @@
 
 <br>
 <div align="center"><b>
- <a href="">Watch Now</a>
+ <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Episodes">Watch Now</a>
 </b></div>
 <br>
 
