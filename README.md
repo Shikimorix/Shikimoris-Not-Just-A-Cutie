@@ -10,7 +10,7 @@
 <br>
  <div align="center"> <b>
 
-[![img](https://custom-icon-badges.demolab.com/badge/Watch-Now-green.svg?logo=play&logoColor=white)]()
+[![img](https://custom-icon-badges.demolab.com/badge/Watch-Now-green.svg?logo=play&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Watch%20Now)
 
 </b>
  </div>
