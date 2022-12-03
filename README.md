@@ -2,7 +2,7 @@
 <img src="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/blob/main/Resources/Poster.jpg" width="100%" height="auto">
 
 <h3 align="center">
-    「 Shikimori's Not Just a Cutie 」
+    「 <a href="https://github.com/ikx7a/Shikimori-San"> Shikimori's Not Just a Cutie </a> 」
 </h3>
 
 `PG-13` `HD` `DUB` • TV Ep12/12 • 23m
