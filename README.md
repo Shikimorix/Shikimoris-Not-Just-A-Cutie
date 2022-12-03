@@ -9,8 +9,10 @@
 
 <br>
 <div align="center"><b>
-「 <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Watch%20Now">Watch Now</a> 」
-</b></div>
+
+[![img](https://custom-icon-badges.demolab.com/badge/watch-now-green.svg?logo=play&logoColor=white)]()
+
+</b>
 <br>
 </div>
 
