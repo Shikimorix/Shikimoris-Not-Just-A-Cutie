@@ -7,7 +7,6 @@
 
 [![Season 01](https://3a8v7nqti5f8.runkit.sh)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%201)
 [![Season 02](https://xvovu1ippkpi.runkit.sh)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%202)
-[![Badge](https://2bb6avp5jbch.runkit.sh)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/RECAP)
 
 </p>
 <div align="center">
