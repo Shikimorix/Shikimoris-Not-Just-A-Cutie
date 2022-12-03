@@ -10,7 +10,7 @@
 <br>
  <div align="center"> <b>
 
-[![img](https://custom-icon-badges.demolab.com/badge/watch-now-green.svg?logo=play&logoColor=white)]()
+[![img](https://custom-icon-badges.demolab.com/badge/Watch-Now-green.svg?logo=play&logoColor=white)]()
 
 </b>
  </div>
