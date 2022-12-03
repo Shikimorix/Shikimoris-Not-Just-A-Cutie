@@ -8,12 +8,12 @@
 `PG-13` `HD` `DUB` • TV Ep12/12 • 23m
 
 <br>
-<div align="center"><b>
+ <div align="center"> <b>
 
 [![img](https://custom-icon-badges.demolab.com/badge/watch-now-green.svg?logo=play&logoColor=white)]()
 
 </b>
-<br>
+ </div>
 </div>
 
 **Overview:** Shikimori seems like the perfect girlfriend: cute, fun to be around, sweet when she wants to be... but she has a cool dark side that comes out under the right circumstances. And her boyfriend Izumi loves to be around when that happens!
