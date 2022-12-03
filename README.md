@@ -6,14 +6,13 @@
 
 `PG` `SD` `HD` `DUB` • TV Ep12/12 • 23m
 
+<br>
 <div align="center"><b>
  <a href="">Watch Now</a>
 </b></div>
+<br>
 
-**Overview:**
-
-> Shikimori seems like the perfect girlfriend: cute, fun to be around, sweet when she wants to be... but she has a cool dark side that comes out under the right circumstances. And her boyfriend Izumi loves to be around when that happens!
-
+**Overview:** Shikimori seems like the perfect girlfriend: cute, fun to be around, sweet when she wants to be... but she has a cool dark side that comes out under the right circumstances. And her boyfriend Izumi loves to be around when that happens!
 
 - **Japanese:** 可愛いだけじゃない式守さん
 - **Synonyms:** Shikimori's Not Just a Cutie, Miss Shikimori is not just cute, That Girl Is Not Just Cute
