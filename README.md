@@ -1,22 +1,14 @@
-< !---- Copyright : @ikx7a ----- >
-
-
-
 <img src="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/blob/main/Resources/Poster.jpg" width="100%" height="auto">
 
 <h3 align="center">
-    ─「 Shikimori's Not Just a Cutie 」─
+    「 Shikimori's Not Just a Cutie 」
 </h3>
 
-`PG` `SD` `HD` `DUB` • `TV` Ep12/12 • 23m
+`PG` `SD` `HD` `DUB` • TV Ep12/12 • 23m
 
-
-
-<div align="center">
-
-            **Watch Now**
-
-</div>
+<div align="center"><b>
+ <a href="">Watch Now</a>
+</b></div>
 
 **Overview:**
 
