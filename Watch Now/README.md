@@ -3,6 +3,8 @@
 
 <p>
 
+**Watch more seasons of this anime**
+
 <b><a href=""> `Season 1` </a> • <a href=""> `RECAP` </a></b>
 
 </p>
