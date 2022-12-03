@@ -26,4 +26,6 @@
 [![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie)
 [![Contact Us](https://custom-icon-badges.demolab.com/badge/Contact-Us-green.svg?logo=heart&logoColor=white)](https://github.com/ikx7a)
 
+[![comment](https://custom-icon-badges.demolab.com/badge/Comment-orange.svg?logo=comment-discussion&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Watch%20Now)
+
 </div>
