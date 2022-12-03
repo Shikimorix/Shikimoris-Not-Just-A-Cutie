@@ -23,6 +23,7 @@
 - **Synonyms:** Kawaii dake ja Nai Shikimori-san, Shikimori's Not Just a Cutie, Miss Shikimori is not just cute, That Girl Is Not Just Cute.
 - **Aired:** Apr 10, 2022 to Jul 10, 2022
 - **Premiered:** Spring 2022
+- **Language:** `Japanese`, `English`
 - **Duration:** 23m
 - **Status:** Finished Airing
 - **MAL Score:** 7.27
