@@ -3,7 +3,8 @@
 
  **StayTooned**
 
-[CONTACT US//FOLLOW US](https://github.com/ikx7a/)
+<div align="center">
 
+<a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> `Home Page` </a> • <a href="https://github.com/ikx7a"> `Contact Us` </a>
 
 </div>
