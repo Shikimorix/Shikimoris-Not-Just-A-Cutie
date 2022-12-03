@@ -1,6 +1,7 @@
 <div align="center">
  <img src="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/blob/main/Resources/Image-1.jpg" width="100%" height="auto">
 
+<p>
 
 | Episodes  |    Links    |
 | :--------------: | :----------------: |
@@ -18,7 +19,7 @@
 | Episode 12 | <a href="https://sbembed.com/d/cfubwyung89l.html">Download</a> |
 
 <div align="center">
-<a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> Home Page </a>
 
+<a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> `Home Page` </a> • <a href="https://github.com/ikx7a"> `Contact Us` </a>
 
-
+</div>
