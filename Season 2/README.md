@@ -5,6 +5,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> `Home Page` </a> • <a href="https://github.com/ikx7a"> `Contact Us` </a>
+[![Home](https://custom-icon-badges.demolab.com/badge/Home-Page-blue.svg?logo=home&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie)
+[![Contact Us](https://custom-icon-badges.demolab.com/badge/Contact-Us-green.svg?logo=heart&logoColor=white)](https://github.com/ikx7a)
 
 </div>
