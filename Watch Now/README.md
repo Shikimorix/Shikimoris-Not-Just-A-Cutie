@@ -5,6 +5,6 @@
 
 **Watch more seasons of this anime**
 
-<b><a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%201"> `Season 1` </a> • <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/RECAP"> `RECAP` </a></b>
+<b><a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%201"> `Season 1` </a> • <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%202"> `Season 2` </a> • <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/RECAP"> `RECAP` </a></b>
 
 </p>
