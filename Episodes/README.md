@@ -5,4 +5,4 @@
 <b><a href=""> `SUBBED` </a> • <a href=""> `DUBBED` </a></b>
 
 </p>
-<h6> Copyrights © 2022 <a href="https://github.com/ikx7a">ikx7a</a></h6>
+<h6> Copyrights © 2022 <a href="https://github.com/ikx7a">和泉</a></h6>
