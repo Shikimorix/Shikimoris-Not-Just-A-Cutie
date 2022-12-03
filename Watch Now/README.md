@@ -8,3 +8,8 @@
 <b><a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%201"> `Season 1` </a> • <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%202"> `Season 2` </a> • <a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/RECAP"> `RECAP` </a></b>
 
 </p>
+<div align="center">
+
+<a href="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie"> `Home Page` </a> • <a href="https://github.com/ikx7a"> `Contact Us` </a>
+
+</div>
