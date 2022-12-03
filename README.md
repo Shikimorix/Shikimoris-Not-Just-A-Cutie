@@ -30,3 +30,9 @@
 - **Genres:** `Comedy`, `Romance`, `Slice of Life`.
 - **Studios:** ABC, ABC Animation, Doga Kobo, Crunchyroll
 - **Producers:** TV Asahi
+
+<div align="center">
+
+[![comment](https://custom-icon-badges.demolab.com/badge/Comment-orange.svg?logo=comment-discussion&logoColor=white)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/discussions/2)
+
+</div>
