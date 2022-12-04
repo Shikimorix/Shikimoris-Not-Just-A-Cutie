@@ -2,7 +2,7 @@
  <img src="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/blob/main/Resources/Image-1.jpg" width="100%" height="auto">
 <p>
 
-**Quality** `320p` `720p` `1080p`
+**Quality** `360p` `720p` `1080p`
 
 <br>
 
