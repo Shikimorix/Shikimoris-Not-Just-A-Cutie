@@ -31,3 +31,11 @@
 - **Genres:** `Comedy`, `Romance`, `Slice of Life`.
 - **Studios:** ABC, ABC Animation, Doga Kobo, Crunchyroll
 - **Producers:** TV Asahi
+
+<div align="center"
+
+<sub> ikx7a does not store any files on our server, we only linked to the media which is hosted on 3rd party services.
+
+© [ikx7a](https://github.com/ikx7a)
+
+</sub>
