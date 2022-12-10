@@ -37,6 +37,6 @@
 
 <sub> Shikimori's Not Just a Cutie does not store any files on our server, we only linked to the media which is hosted on 3rd party services.
 
-© [ikx7a](https://github.com/ikx7a)
+© 2022 [ikx7a](https://github.com/ikx7a)
 
 </sub>
