@@ -6,7 +6,7 @@
 **Watch more seasons of this anime**
 
 [![Season 01](https://3a8v7nqti5f8.runkit.sh)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%201)
-[![Season 02](https://xvovu1ippkpi.runkit.sh)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%202)
+[![Season 02](https://3a8v7nqti5f8.runkit.sh/)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/tree/main/Season%202)
 
 </p>
 <div align="center">
