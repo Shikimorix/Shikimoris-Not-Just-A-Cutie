@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/blob/main/Resources/Poster.jpg" width="100%" height="auto">
+
+[![Poster](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie/blob/main/Resources/Poster.jpg)](https://github.com/ikx7a/Shikimoris-Not-Just-A-Cutie)
 
 <h3 align="center">
     「 <a href="https://github.com/ikx7a/Shikimori-San"> Shikimori's Not Just a Cutie </a> 」
